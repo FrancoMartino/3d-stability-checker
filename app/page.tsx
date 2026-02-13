@@ -171,7 +171,7 @@ export default function Page() {
       <footer className="border-t border-border px-6 py-6 bg-card">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-4 sm:flex-row">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} - 3D Stability Checker.
+            © {new Date().getFullYear()} - Franco Martino
           </p>
           <div className="flex items-center gap-5">
             <a href="https://www.linkedin.com/in/francomartino/" target="_blank" className="text-muted-foreground hover:text-primary transition-colors" aria-label="LinkedIn">
